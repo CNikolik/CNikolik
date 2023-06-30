@@ -4,6 +4,7 @@
 * Previously Embedded Software @ Ford 🚗, Controls @ Brampton Brick 🧱, SWE @ YuJa
 * 📫Let's connect on Linkedin: https://www.linkedin.com/in/cnikolik/ 
 * ⚡Sports fan: Toronto Maple Leafs 🏒, UFC 🥊, mountain biking 🚲
+* 👀 Hobbies: Poker, Chess
 
 <!--
 **CNikolik/CNikolik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
