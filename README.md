@@ -2,8 +2,8 @@
 
 * Mechatronics Engineering undergraduate student at University of Waterloo 🏫
 * DSP Firmware Engineering Intern @ [Infinera](https://www.infinera.com/)
-* Previously Embedded Software @ Ford 🚗, Controls @ Brampton Brick 🧱, SWE @ YuJa
-* 📫Let's connect on Linkedin: [cnikolik](https://www.linkedin.com/in/cnikolik/)
+* Previously DSP SDK @ [Infinera](https://www.infinera.com/), Telematics & Bluetooth @ Ford 🚗, Controls @ Brampton Brick 🧱, Dev @ YuJa
+* 📫Linkedin: [cnikolik](https://www.linkedin.com/in/cnikolik/)
 * ⚡Sports fan: Toronto Maple Leafs 🏒, UFC 🥊, mountain biking 🚲
 * 👀 Hobbies: Poker, Chess
 
