@@ -1,7 +1,7 @@
 ### Hi 👋
 
 *  Engineering undergraduate student at University of Waterloo 🏫
-* Previously Quant Trading & Research @ [Capula](https://www.capulaglobal.com/), DSP SDK @ [Infinera](https://www.infinera.com/), Telematics & Bluetooth @ Ford 🚗
+* Previously Trading @ [Capula](https://www.capulaglobal.com/), DSP SDK @ [Infinera](https://www.infinera.com/), Telematics & Bluetooth @ Ford 🚗
 * 📫Linkedin: [cnikolik](https://www.linkedin.com/in/cnikolik/)
 * ⚡Sports fan: Toronto Maple Leafs 🏒, UFC 🥊, mountain biking 🚲
 * 👀 Hobbies: Poker, Chess
