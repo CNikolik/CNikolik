@@ -8,7 +8,7 @@
 * 🚗 Embedded Software Intern @ [Ford](https://www.ford.com/) developing software for an onboard ECU
 * 🧱 Control Systems Engineering Intern @ [Brampton Brick](https://bramptonbrick.com/en) working on industrial brick-gripping robots
 * 📲 Embedded Software Test Intern @ [Ford](https://www.ford.com/) working with Bluetooth systems
-* 💻 Software Developer in Test @ [YuJa](https://www.yuja.com/) 
+* 💻 Software Developer in Test @ [YuJa](https://www.yuja.com/), EduTech startup 
 
 
 
